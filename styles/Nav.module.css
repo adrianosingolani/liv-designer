@@ -1,0 +1,30 @@
+.nav {
+    height: 5rem;
+    padding: 1.5rem;
+    background: #000;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    /* min-width: 620px; */
+}
+  
+.nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+  
+.nav ul li a {
+    margin: 5px 15px 5px 0;
+}
+
+.nav ul li a:hover {
+    color: #777;
+}
