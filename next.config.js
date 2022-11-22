@@ -1,5 +1,5 @@
 module.exports = {
   reactStrictMode: true,
-  basePath: '/liv-designerdsds',
-  assetPrefix: '/liv-designerasaddds',
+  basePath: '/',
+  assetPrefix: '/liv-designer',
 }
